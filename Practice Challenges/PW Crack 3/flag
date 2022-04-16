@@ -1,0 +1,12 @@
+Modified line 26 - added userPassword as input
+Modified line 27 - commented
+Moved level_3_pw_check to the bottom
+
+Passed pos_pw_list through a loop to get the correct password
+
+Flag:
+picoCTF{m45h_fl1ng1ng_2b072a90} 
+
+
+CREDIT to Mike on Tech (https://www.youtube.com/channel/UCVpoRD0HxUQAntU4tlAyYCg) for making this simpler
+I had figured just inputting answers but felt like there was a better way

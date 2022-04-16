@@ -1,0 +1,5 @@
+Flag: 
+picoCTF{h45h_sl1ng1ng_40f26f81}
+
+
+line.strip is very important for stripping whitespace - it will mess with the hashes!
