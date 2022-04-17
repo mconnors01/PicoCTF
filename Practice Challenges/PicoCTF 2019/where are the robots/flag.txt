@@ -1,0 +1,8 @@
+Flag:
+picoCTF{ca1cu1at1ng_Mach1n3s_8028f}
+
+
+8028f.html was disallowed in https://jupiter.challenges.picoctf.org/problem/60915/robots.txt
+
+802 link provides flag - https://jupiter.challenges.picoctf.org/problem/60915//8028f.html
+

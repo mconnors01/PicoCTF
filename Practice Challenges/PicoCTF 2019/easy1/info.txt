@@ -1,0 +1,13 @@
+key:
+SOLVECRYPTO
+
+encrypted flag:
+UFJKXQZQUNB 
+
+
+basically, get the digit value of each letter for the row and column and subtract them to get the digit value of the
+flag character
+
+
+flag:
+picoCTF{CRYPTOISFUN}

@@ -1,0 +1,6 @@
+Password to the vault is:
+d35cr4mbl3_tH3_cH4r4cT3r5_75092e
+
+
+Flag is: 
+picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_75092e}

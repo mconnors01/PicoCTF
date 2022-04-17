@@ -1,0 +1,4 @@
+Flag:
+picoCTF{p}
+
+0x70 in hex is p in ascii

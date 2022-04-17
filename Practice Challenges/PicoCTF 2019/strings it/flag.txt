@@ -1,0 +1,5 @@
+flag: 
+picoCTF{5tRIng5_1T_d66c7bb7}
+
+
+open the file in a text editor and ctrl + f for "picoctf"

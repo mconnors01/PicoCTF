@@ -1,0 +1,7 @@
+flag:
+
+picoctf{thenumbersmason}
+
+
+
+numbers correlate to their position in the English alphabet

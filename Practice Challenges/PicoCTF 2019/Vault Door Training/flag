@@ -1,0 +1,7 @@
+Flag:
+picoCTF{w4rm1ng_Up_w1tH_jAv4_be8d9806f18}
+
+
+Line 9 has the first part of the flag - picoCTF{}
+Line 24 has the password - w4rm1ng_Up_w1tH_jAv4_be8d9806f18
+When entering the password into the terminal nothing happens, so tried combining it after looking at the code. 
