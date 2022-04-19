@@ -1,0 +1,7 @@
+spent way too much time on this
+
+flag:
+picoCTF{StaT31355_636f6e6e}
+
+
+packets coming from 10.0.0.2 and going to 10.0.0.12 have the flag

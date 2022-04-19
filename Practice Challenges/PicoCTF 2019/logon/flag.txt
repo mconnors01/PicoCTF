@@ -1,0 +1,12 @@
+User info:
+username: user
+password: password
+
+Found in html
+
+Look at cookies to find information
+Set admin=True
+Refresh page
+
+flag:
+picoCTF{th3_c0nsp1r4cy_l1v3s_6edb3f5f}
