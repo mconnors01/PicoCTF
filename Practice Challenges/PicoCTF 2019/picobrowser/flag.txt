@@ -1,0 +1,6 @@
+flag:
+picoCTF{p1c0_s3cr3t_ag3nt_51414fa7}
+
+
+used: 
+curl "https://jupiter.challenges.picoctf.org/problem/50522/flag" -H "User-Agent: picobrowser"

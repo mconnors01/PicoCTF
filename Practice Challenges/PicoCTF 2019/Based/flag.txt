@@ -1,0 +1,7 @@
+Flag:
+picoCTF{learning_about_converting_values_02167de8}
+
+
+1st input - binary to text
+2nd - octal to text
+3rd - hexadecimal to text

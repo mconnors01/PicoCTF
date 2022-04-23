@@ -1,0 +1,5 @@
+It's morse code
+
+
+flag
+PICOCTF{M0RS3C0D31SFUN2683824610}

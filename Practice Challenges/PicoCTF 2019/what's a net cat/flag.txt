@@ -2,4 +2,5 @@ flag:
 picoCTF{nEtCat_Mast3ry_d0c64587}
 
 used:
-nc jupiter.challenges.picoctf.org 25103
+on windows
+ncat jupiter.challenges.picoctf.org 25103

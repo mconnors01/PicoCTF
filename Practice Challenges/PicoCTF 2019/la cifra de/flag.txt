@@ -1,0 +1,13 @@
+Flag:
+picoctf{b311a50_0r_v1gn3r3_c1ph3ra966878a}
+
+Used:
+on windows
+ncat jupiter.challenges.picoctf.org 58295
+
+cipher:
+vignere cipher
+
+used https://www.dcode.fr/en to figure out the cipher type
+
+used https://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx to figure out the flag
