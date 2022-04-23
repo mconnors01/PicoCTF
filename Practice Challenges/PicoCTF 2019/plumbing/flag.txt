@@ -1,0 +1,5 @@
+flag:
+picoCTF{digital_plumb3r_ea8bfec7}
+
+
+just write the output to a file then open it and ctrl + f
